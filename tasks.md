@@ -5,5 +5,5 @@
 - [x] PRD.md (Teknik Planlama) hazırlanması
 - [x] UI Tasarımı (Lovable üzerinden tamamlandı)
 - [x] Gemini 3 Flash Vision Entegrasyonu (Lovable AI Gateway üzerinden optimize edildi)
-- [ ] Netlify Deploy ve Final Test
-- [ ] Demo Videosu ve Teslimat
+- [x] Netlify Deploy ve Final Test
+- [x] Demo Videosu ve Teslimat
