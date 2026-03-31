@@ -1,3 +1,7 @@
+Canlı Uygulama Linki: https://ecosnap-antalya.netlify.app
+​Demo Video Linki: 
+
+
 EcoSnap_ 🌍 EcoSnap: Akıllı Atık Geri Dönüşüm Rehberi
 EcoSnap, evdeki atıkların (elektronik, tekstil, plastik vb.) geri dönüşüp dönüşmeyeceğini saniyeler içinde analiz eden ve en yakın geri dönüşüm noktasını gösteren AI tabanlı bir web uygulamasıdır.
 
